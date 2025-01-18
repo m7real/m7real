@@ -3,7 +3,7 @@
 
 - 🔭 I’m exploring **Back-End Technologies**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
